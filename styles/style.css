@@ -1,0 +1,60 @@
+.carousel {
+    margin-top: 2% !important;
+    margin-left: 15% !important;
+    width: 70% !important;
+
+
+}
+
+.next,
+.prev {
+    color: white;
+    position: absolute;
+    cursor: pointer;
+    top: 46%;
+    border-radius: 20%;
+}
+
+.next {
+    right: 15%;
+    opacity: .8;
+}
+
+.prev {
+    left: 15%;
+    opacity: .8;
+}
+
+.prev>i {
+    opacity: 1 !important;
+    color: white !important;
+}
+
+.text>h2 {
+    padding-top: 3%;
+    color: #1565c0;
+}
+
+.text>p {
+    padding: 1% 6%;
+}
+
+.guide {
+    margin-top: 5%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.guide>p {
+    display: inline-block;
+}
+
+.guide>a {
+    display: inline-block;
+    margin-left: 2%;
+    margin-bottom: .7%;
+}
+
+.formvote {
+    margin: 3% 10%;
+}
